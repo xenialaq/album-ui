@@ -27,7 +27,7 @@ const store = createStore(
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/app">
         <div>
           <nav className="navbar navbar-expand-lg">
             <div className="navbar-brand">Album</div>
