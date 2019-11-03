@@ -1,0 +1,4 @@
+export const GET_PHOTOS = 'GET_PHOTOS';
+export const GET_PHOTO_BY_ID = 'GET_PHOTO_BY_ID';
+export const GET_PHOTOS_FAILED = 'GET_PHOTOS_FAILED';
+export const GET_PHOTO_BY_ID_FAILED = 'GET_PHOTO_BY_ID_FAILED';
